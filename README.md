@@ -1,2 +1,2 @@
 # Survvey-Form
-Survey Form dsigned by HTML and CSS
+Survey Form designed by HTML and CSS
